@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    z-index: 10;
+}
+body{
+    height: 100vh;
+    background-color: #161513;
+    color: white;
+    font-family: 'outfit';
+}
+::-webkit-scrollbar {
+  width: 20px;
+}
+
+::-webkit-scrollbar-thumb {
+  /* background-color: transparent; */
+  border-radius: 20px;
+  background-color: rgb(179, 135, 135);
+  /* border-radius: 15px; */
+}

@@ -1,18 +1,18 @@
 const Services_Data = [
     {
         s_no:"01",
-        s_name:"Web design",
-        s_desc:"Web development is the process of building, programming..."
+        s_name:"UI/UX Design",
+        s_desc:"Creating intuitive and visually appealing interfaces that offer a seamless user experience.."
     },
     {
         s_no:"02",
-        s_name:"Graphics design",
-        s_desc:"Web development is the process of building, programming..."
+        s_name:" Custom Web Development",
+        s_desc:"I build websites that match your business needs. My websites look good on any device and load quickly."
     },
     {
         s_no:"03",
-        s_name:"Social media",
-        s_desc:"Web development is the process of building, programming..."
+        s_name:"Front-End Development",
+        s_desc:"I use the latest front-end technologies to turn your ideas into a clean and interactive website."
     },
     // {
     //     s_no:"04",

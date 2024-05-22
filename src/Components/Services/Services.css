@@ -101,6 +101,14 @@
         gap: 30px;
     }
 }
+@media (max-width:594px) {
+    .services-format p{
+        font-size: 15px;
+    }
+    .services-format h2{
+        font-size: 20px;
+    }
+}
 @media (max-width:500px) {
     .services{
         align-items: start;

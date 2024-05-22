@@ -17,7 +17,9 @@ const MyWork = () => {
             <>
               
               {/* <button onClick={work.link}>{work.link}</button> */}
-              <a target="a" href={work.link}><img key={idx} src={work.w_img} alt="work image" /></a>
+              {/* <h2 style={{position:"absolute",color:"Green",fontSize:"40px",marginLeft:"20px"}} >Not Responsive</h2>
+              <h2 style={{position:"absolute",color:"Green",fontSize:"40px",marginLeft:"20px",marginTop:"40px"}} >Use Desktop Mode</h2> */}
+              <a target="a" href={work.link}><p style={{position:"absolute",color:"#218ceb",fontSize:"20px",marginLeft:"30px",marginTop:"20px",fontWeight:"20px"}} >{work.text}</p><p style={{position:"absolute",color:"#218ceb",fontSize:"20px",marginLeft:"30px",marginTop:"50px",fontWeight:"20px"}} >{work.text2}</p><img key={idx} src={work.w_img} alt="work image" /></a>
             </>
           );
         })}

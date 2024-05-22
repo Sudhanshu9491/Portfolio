@@ -68,6 +68,16 @@
     transform: scale(1.1);
     transform: 0.3s;
 }
+@media (max-width:796px) {
+    .footer{
+        margin-left: 70px;
+    }
+}
+/* @media (max-width:760px) {
+    .footer-h2{
+        margin-bottom: 0rem;
+    } */
+/* } */
 @media (max-width:1250px) {
     /* .footer-top-left{
         margin-left: -100px;
@@ -110,7 +120,7 @@
     }
     .footer-h2{
         margin-top: -1rem;
-        margin-bottom: -8rem;
+        /* margin-bottom: -8rem; */
         text-align: center;
     }
 }
@@ -156,7 +166,7 @@
     }
 
     .footer-top-right {
-        margin-top: 100px;
+        /* margin-top: 100px; */
         flex-direction: column;
         gap: 30px;
     }

@@ -16,31 +16,31 @@ const mywork_data = [
         w_no:2,
         w_name:"Web design",
         w_img:project2_img,
-        link:"https://sudhanshu9491.github.io/Ecommerce_webpage/"
+        link:"https://amazon-clone9491.vercel.app/"
     },
     {
         w_no:3,
         w_name:"Web design",
         w_img:project3_img,
-        link:"https://sudhanshu9491.github.io/Ecommerce_webpage/"
+        link:"https://spotify-clone9491.vercel.app/"
     },
     {
         w_no:4,
         w_name:"Web design",
         w_img:project4_img,
-        link:"https://sudhanshu9491.github.io/Ecommerce_webpage/"
+        link:"https://college-registration9491.vercel.app"
     },
     {
         w_no:5,
         w_name:"Web design",
         w_img:project5_img,
-        link:"https://sudhanshu9491.github.io/Ecommerce_webpage/"
+        link:"https://weather-wise9491.vercel.app/"
     },
     {
         w_no:6,
         w_name:"Web design",
         w_img:project6_img,
-        link:"https://sudhanshu9491.github.io/Ecommerce_webpage/"
+        link:"#"
     },
 ]
  

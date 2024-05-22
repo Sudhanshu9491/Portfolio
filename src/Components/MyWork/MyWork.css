@@ -122,14 +122,3 @@
         display: none;
     }
 }
-@media (max-width:514px) {
-    .mywork-title h1{
-        font-size: 30px;
-        /* display: none; */
-    }
-    .mywork-title img{
-        /* font-size: 30px; */
-        height: 30px;
-        /* display: none; */
-    }
-}

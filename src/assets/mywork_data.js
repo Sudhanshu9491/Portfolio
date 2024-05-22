@@ -10,44 +10,30 @@ const mywork_data = [
         w_no:1,
         w_name:"Web design",
         w_img:project1_img,
-        link:"https://sudhanshu9491.github.io/Ecommerce_webpage/",
-        text:"Responsive",
-        text2:""
+        link:"https://sudhanshu9491.github.io/Ecommerce_webpage/"
     },
     {
         w_no:2,
         w_name:"Web design",
         w_img:project2_img,
-        link:"https://amazon-clone9491.vercel.app/",
-        text:"Not Responsive",
-        text2:"Use Desktop Mode",
         link:"https://amazon-clone9491.vercel.app/"
     },
     {
         w_no:3,
         w_name:"Web design",
         w_img:project3_img,
-        link:"https://spotify-clone9491.vercel.app/",
-        text:"Not Responsive",
-        text2:"Use Desktop Mode",
         link:"https://spotify-clone9491.vercel.app/"
     },
     {
         w_no:4,
         w_name:"Web design",
         w_img:project4_img,
-        link:"https://college-registration9491.vercel.app",
-        text:"Not Responsive",
-        text2:"Use Desktop Mode",
         link:"https://college-registration9491.vercel.app"
     },
     {
         w_no:5,
         w_name:"Web design",
         w_img:project5_img,
-        link:"https://weather-wise9491.vercel.app/",
-        text:"Responsive",
-        text2:"",
         link:"https://weather-wise9491.vercel.app/"
     },
     {

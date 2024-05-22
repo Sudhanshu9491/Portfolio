@@ -48,23 +48,23 @@ const About = () => {
             </div>
           </div>
           <div className="about-achievements">
-            {/* <div className="about-achievement"> */}
+            <div className="about-achievement">
               {/* <h1>10+</h1> */}
               {/* <p>YEARS OF EXPERIENCE</p> */}
-              {/* <h1>&nbsp;</h1> */}
-              {/* <p>Fresher</p> */}
-            {/* </div> */}
-            {/* <hr /> */}
+              <h1>&nbsp;</h1>
+              <p>Fresher</p>
+            </div>
+            <hr />
             <div className="about-achievement">
               <h1>5+</h1>
               <p>PROJECTS COMPLETED</p>
             </div>
-            {/* <hr /> */}
-            {/* <div className="about-achievement"> */}
+            <hr />
+            <div className="about-achievement">
               {/* <h1>15+</h1> */}
-              {/* <h1>&nbsp;</h1> */}
-              {/* <p>HAPPY CLIENTS</p> */}
-            {/* </div> */}
+              <h1>&nbsp;</h1>
+              <p>HAPPY CLIENTS</p>
+            </div>
           </div>
         </div>
       </div>

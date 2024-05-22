@@ -40,7 +40,7 @@ const closeMenu = () => {
         <li><AnchorLink className='anchor-link' offset={0} href='#home'><p onClick={()=>{setMenu("Home")}}>Home</p></AnchorLink> {menu=="ome"? <img src={underline}></img>:<></>}</li>
         <li><AnchorLink className='anchor-link' offset={50} href='#about'> <p onClick={()=>{setMenu("About Me")}}>About Me</p></AnchorLink>{menu=="About Me"? <img src={underline}></img>:<></>}</li>
         <li><AnchorLink className='anchor-link' offset={50} href='#services'> <p onClick={()=>{setMenu("Services")}}>Services</p></AnchorLink>{menu=="Services"? <img src={underline}></img>:<></>}</li>
-        <li><AnchorLink className='anchor-link' offset={50} href='#mywork'> <p onClick={()=>{setMenu("Portfolio")}}>Portfolio</p></AnchorLink>{menu=="Portfolio"? <img src={underline}></img>:<></>}</li>
+        <li><AnchorLink className='anchor-link' offset={50} href='#mywork'> <p onClick={()=>{setMenu("Portfolio")}}>MyWork</p></AnchorLink>{menu=="Portfolio"? <img src={underline}></img>:<></>}</li>
         <li><AnchorLink className='anchor-link' offset={50} href='#contact'><p onClick={()=>{setMenu("Contact")}}>Contact</p></AnchorLink> {menu=="Contact"? <img src={underline}></img>:<></>}</li>
       </ul>
       <div className="nav-connect">

@@ -9,11 +9,12 @@ import Footer from "./Components/Footer/Footer";
 import Fixed from "./Components/Fixed/Fixed";
 import Particle from "./particle";
 import AnimeCursor from "./Components/AnimeCursor";
-
+import { Analytics } from "@vercel/analytics/react"
 
 function App() {
   return (
     <div>
+      <Analytics/>
       <Particle/>
       <AnimeCursor/>
       <Fixed/>

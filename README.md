@@ -8,7 +8,7 @@ Welcome to my personal portfolio! This project showcases my skills, projects, an
 
 ## 📌 About Me  
 
-👋 Hi, I'm **[Sudhanshu Mishra]**, a passionate **Full Stack Developer** specializing in **React.js, MERN Stack, Java, Python, and Deep Learning**. I love building modern web applications and solving real-world problems.  
+👋 Hi, I'm **Sudhanshu Mishra**, a passionate **Full Stack Developer** specializing in **React.js, MERN Stack, Java, Python, and Deep Learning**. I love building modern web applications and solving real-world problems.  
 
 ---
 
@@ -45,5 +45,15 @@ npm run dev
 ```bash
 http://localhost:5173/
 ```
+---
 
+## 📞 Contact Me  
+
+📧 **Email:** [Sudhanshumishra9491@gmail.com](mailto:Sudhanshumishra9491@gmail.com)  
+💼 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/sudhanshu9491)
+📂 **GitHub:** [GitHub](https://github.com/sudhanshu9491)
+
+---
+
+**🌟 If you like my portfolio, feel free to star this repository!** ⭐  
 

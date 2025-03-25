@@ -5,6 +5,9 @@ import profile_img from "../../assets/profile_img.svg";
 import { Typewriter } from "react-simple-typewriter";
 
 const Hero = () => {
+  const openResume = () => {
+    window.open("/resume.pdf", "_blank"); // Ensure resume.pdf is in the public folder
+  };
   return (
     <div id="home" className="hero">
       <img src={profile_img} alt="profile image" />
@@ -32,7 +35,7 @@ const Hero = () => {
             Connect With Me
           </AnchorLink>
         </div>
-        <div className="hero-resume">My Resume</div>
+        <div className="hero-resume" onClick={openResume}>My Resume</div>
       </div>
     </div>
   );

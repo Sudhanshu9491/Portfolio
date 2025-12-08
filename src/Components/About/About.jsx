@@ -1,7 +1,7 @@
 import React from "react";
 import "./About.css";
 import theme_pattern from "../../assets/theme_pattern.svg";
-import profile_img from "../../assets/about_profile.svg";
+import profile_img from "../../assets/meeabout.svg";
 const About = () => {
   return (
     <div id="about" className="about">
@@ -15,23 +15,22 @@ const About = () => {
         </div>
         <div className="about-right">
           <p className="about-para">
-            Hello! I'm a frontend developer who is passionate about crafting
-            visually appealing and user-friendly websites. Though I'm still
-            honing my skills, I approach every project with enthusiasm and a
-            commitment to continuous learning. Let's collaborate and create
-            something remarkable!
+            Hello! I'm a B.Tech (Final Year) CSE student and a web developer who enjoys
+            building clean, responsive, and user-friendly websites. I work with
+            technologies like JavaScript, React, Node.js, MySQL, and MongoDB,
+            and I’m always excited to learn and improve my skills.
           </p>
           <p className="about-para">
-            As a frontend developer, I enjoy turning ideas into reality using
-            code. I specialize in creating the parts of websites that people see
-            and interact with. From buttons to forms to entire pages, I work to
-            make sure everything looks great and works smoothly. With each
-            project, I'm excited to improve my skills and create better
-            experiences for users.
+            I love turning ideas into real, functional projects—whether it's
+            frontend interfaces or full-stack web applications. With a strong
+            foundation in DSA, OOPs, and the MERN stack, I aim to create smooth
+            and meaningful user experiences. I'm currently seeking Software
+            Developer or SDE Intern roles to apply my knowledge and grow
+            further.
           </p>
           <div className="about-skills">
             <div className="about-skill">
-              <p>HTML && CSS</p>
+              <p>Java & OOPS</p>
               <hr style={{ width: "70%" }} />
             </div>
             <div className="about-skill">
@@ -43,7 +42,7 @@ const About = () => {
               <hr style={{ width: "50%" }} />
             </div>
             <div className="about-skill">
-              <p>Java</p>
+              <p>Backend</p>
               <hr style={{ width: "70%" }} />
             </div>
           </div>

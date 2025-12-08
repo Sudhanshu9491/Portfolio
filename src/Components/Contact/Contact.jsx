@@ -69,12 +69,24 @@ const Contact = () => {
           </p>
           <div className="contact-details">
             <div className="contact-detail">
+              <svg xmlns="http://www.w3.org/2000/svg" height="34px" viewBox="0 -960 960 960" width="34px" fill="#e3e3e3"><path d="M440-280H280q-83 0-141.5-58.5T80-480q0-83 58.5-141.5T280-680h160v80H280q-50 0-85 35t-35 85q0 50 35 85t85 35h160v80ZM320-440v-80h320v80H320Zm200 160v-80h160q50 0 85-35t35-85q0-50-35-85t-85-35H520v-80h160q83 0 141.5 58.5T880-480q0 83-58.5 141.5T680-280H520Z"/></svg>
+              <a href="https://github.com/sudhanshu9491"   style={{ color: "white" }}>Github/Sudhanshu9491</a>
+            </div>
+            <div className="contact-detail">
+              <svg xmlns="http://www.w3.org/2000/svg" height="34px" viewBox="0 -960 960 960" width="34px" fill="#e3e3e3"><path d="M440-280H280q-83 0-141.5-58.5T80-480q0-83 58.5-141.5T280-680h160v80H280q-50 0-85 35t-35 85q0 50 35 85t85 35h160v80ZM320-440v-80h320v80H320Zm200 160v-80h160q50 0 85-35t35-85q0-50-35-85t-85-35H520v-80h160q83 0 141.5 58.5T880-480q0 83-58.5 141.5T680-280H520Z"/></svg>
+              <a href="https://www.linkedin.com/in/Sudhanshu9491"   style={{ color: "white" }}>Linkedin/Sudhanshu9491</a>
+            </div>
+            <div className="contact-detail">
               <img src={mail_icon} alt="" />
-              <p>sudhanshumishra9491@gmail.com</p>
+              <a href="mailto:sudhanshumishra9491@gmail.com" style={{ color: "white" }}>
+  sudhanshumishra9491@gmail.com
+</a>  
             </div>
             <div className="contact-detail">
               <img src={call_icon} alt="" />
-              <p>91+ 7905907817</p>
+              <a href="tel:+917905907817" style={{ color: "white" }}>
+  +91 7905907817
+</a>
             </div>
             <div className="contact-detail">
               <img src={location_icon} alt="" />

@@ -6,7 +6,7 @@ import { Typewriter } from "react-simple-typewriter";
 
 const Hero = () => {
   const openResume = () => {
-    window.open("/resume1.pdf", "_blank"); // Ensure resume.pdf is in the public folder
+    window.open("#", "_blank"); // Ensure resume.pdf is in the public folder
   };
   return (
     <div id="home" className="hero">
